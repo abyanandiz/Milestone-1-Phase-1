@@ -1,0 +1,1 @@
+pickle.dump(knn_clf, open('model_classifier.pkl','wb'))
